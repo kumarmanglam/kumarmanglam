@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://kumarmanglam.netlify.app/](https://kumarmanglam.netlify.app/)
+- 👨‍💻 All of my projects are available at my [website](https://kumarmanglam.netlify.app/)
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **kumarmanglamemail@gmail.com**
+- 📫 How to reach me <a href="mailto:m.kumarmanglamemail@gmail.com" target="_blank"> **kumarmanglamemail@gmail.com**</a>
 
-- 📄 Know about my experiences [https://kumarmanglam.netlify.app/static/media/Kumar_Resume.8ce851b59f7cfa42b67a.pdf](https://kumarmanglam.netlify.app/static/media/Kumar_Resume.8ce851b59f7cfa42b67a.pdf)
+- 📄 Know about my experiences [Grab my Resume](https://kumarmanglam.netlify.app/static/media/Kumar_Resume.8ce851b59f7cfa42b67a.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
