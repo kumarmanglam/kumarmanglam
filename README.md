@@ -12,7 +12,7 @@
 
 - 👨‍💻 Explore my projects at [My Portfolio](https://kumarmanglam.netlify.app/)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **Java, Spring boot, React, JavaScript**
 
 - 📫 Reach out to me at <a href="mailto:m.kumarmanglamemail@gmail.com" target="_blank">**kumarmanglamemail@gmail.com**</a>
 
@@ -51,41 +51,4 @@
 </p>
 
 ### Kumar Manglam
-
-📞 8448739538 | 📧 kumarmanglamemail@gmail.com | [LinkedIn](https://www.linkedin.com/in/kumar-m-557b4a192/) | [Portfolio](https://kumarmanglam.netlify.app/) | [LeetCode](https://www.leetcode.com/__manglam)
-
-#### Education
-
-- **Great Learning Academy, Electronic City, Bangalore**
-  - Java Full Stack Development Training | Sep 2023 – Present
-
-- **Maharaja Agrasen Institute of Technology, Delhi**
-  - Bachelor of Technology, ECE | 8.8 CGPA | Aug 2019 – Aug 2023
-
-- **Modern Convent School, Dwarka, Delhi**
-  - 12th, PCM | 90.4 Percentage | Apr 2017 – Mar 2018
-
-- **Modern Convent School, Dwarka, Delhi**
-  - 10th, 8.6 CGPA | Apr 2015 – Mar 2016
-
-#### Projects
-
-**Expense Application | Java, Spring Boot, JWT, React, Redux, Tailwind, SCSS | Jun 2023 – Present**
-- Designed and implemented a robust Full Stack application using Spring Boot for the backend.
-- Utilized React as the primary framework for the web application, incorporating Redux for state management.
-- Implemented Spring Security for secure authentication and authorization processes.
-- Applied advanced techniques for data visualization on the dashboard using React charts.
-- GitHub: [Backend](<Backend GitHub Link>), [Frontend](<Frontend GitHub Link>)
-
-**Notepro V2 Application | React, Redux, JavaScript | June 2023**
-- Created a Notes Keeping Application using React and Redux.
-- Published the Application on Netlify.
-- Implemented features such as continuous editing, updating, archiving, and deletion.
-- Live Link: [Live Link](<Live Link>), GitHub: [GitHub Link](<GitHub Link>)
-
-#### Technical Skills
-
-- **Languages:** Java, JavaScript, Python, C/C++, SQL, HTML, CSS
-- **Technicals:** Spring Boot, Spring Security, OOPs, Data Structures and Algorithms, Responsive Design, Web Development
-- **Frameworks:** React, Material-UI, Redux, SASS, Tailwind
-- **Developer Tools:** Git, VS Code,
+ 📧 kumarmanglamemail@gmail.com | [LinkedIn](https://www.linkedin.com/in/kumar-m-557b4a192/) | [Portfolio](https://kumarmanglam.netlify.app/) | [LeetCode](https://www.leetcode.com/__manglam)
