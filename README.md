@@ -1,6 +1,4 @@
-Certainly! Here's an updated version of your GitHub README file based on the information provided in your resume:
 
-```markdown
 <h1 align="center">Hi 👋, I'm Kumar Manglam</h1>
 <h3 align="center">Passionate Software Developer | Full Stack Enthusiast | Open Source Contributor</h3>
 
